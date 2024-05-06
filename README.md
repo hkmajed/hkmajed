@@ -1,16 +1,28 @@
-### Hi there 👋
+👋 Hello, Community! I'm Hussein Majed, a passionate software developer who loves turning ideas into reality through code.
 
-<!--
-**hkmajed/hkmajed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently, I'm focused on Full-Stack Development, but always eager to explore new technologies and methodologies.
+    
+Here are some of my Technical Skills:
+Programming Languages:
+Java, JavaScript, PHP, Python, Bash scripting
 
-Here are some ideas to get you started:
+Web-Dev Tools:
+HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks : 
+React 
+
+DBMS:
+PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
+
+Tools:
+Eclipse, Virtual Studio Code
+
+🌱 Constantly learning and growing, I believe in the power of collaboration and open source. You can find some of my projects here.
+
+💬 Let's connect! Whether for discussing tech trends, or collaborating on projects. feel free to reach out.
+📫 You can reach me via email on:
+                                    -	Hkmajed@hotmail.com
+                                    -	Maje0028@algonquinlive.com
+ or connect with me on LinkedIn:  www.linkedin.com/in/hussein-majed
+
