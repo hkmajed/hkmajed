@@ -3,20 +3,16 @@
 🚀 Currently, I'm focused on Full-Stack Development, but always eager to explore new technologies and methodologies.
     
 Here are some of my Technical Skills:
-Programming Languages:
-Java, JavaScript, PHP, Python, Bash scripting
 
-Web-Dev Tools:
-HTML, CSS
+-    Programming Languages: Java, JavaScript, PHP, Python, Bash scripting
 
-Frameworks : 
-React 
+-    Web-Dev Tools: HTML, CSS
 
-DBMS:
-PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
+-    Frameworks : React
 
-Tools:
-Eclipse, Virtual Studio Code
+-    DBMS: PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
+
+-    Tools: Eclipse, Virtual Studio Code
 
 🌱 Constantly learning and growing, I believe in the power of collaboration and open source. You can find some of my projects here.
 
