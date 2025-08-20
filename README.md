@@ -9,7 +9,6 @@ Passionate about developing scalable and efficient software solutions. I thrive 
 * 🌍  I'm based in Ottawa
 * 🖥️  See my portfolio at [MyPortfolio](http://hkmajed.github.io/Profile/)
 * ✉️  You can contact me at [hkmajed@hotmail.com](mailto:hkmajed@hotmail.com)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on exciting Projects
 * ⚡  I could tell you more… but then I’d have to rm -rf / 🕵️‍♂️
 
